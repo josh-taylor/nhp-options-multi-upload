@@ -5,7 +5,7 @@ A multiple file upload field for NHP Options.
 
 It allows you to upload multiple images in one field and can be used like any other of the standard NHP Option fields.
 
-# # Installation
+## Installation
 
 To install, just clone or download a tarball of this repository and copy the multi_upload directory into your `NHP_OPTIONS/fields` directory.
 
