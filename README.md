@@ -1,5 +1,5 @@
-NHP Options - Multiple File Upload Filed
-========================================
+NHP Options - Multiple File Upload
+==================================
 
 A multiple file upload field for NHP Options.
 
