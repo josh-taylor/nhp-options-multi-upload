@@ -25,3 +25,15 @@ $sections = [] = array(
 	)
 ```
 
+## Usage
+
+To use inside your theme:
+
+```php
+global $NHP_Options;
+$images = $NHP_Options->get('my_multiple_upload_field');
+
+foreach ($images as $image) {
+	echo "<img src='{$image}' />";
+}
+```
